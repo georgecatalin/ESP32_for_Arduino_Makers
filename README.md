@@ -12,7 +12,7 @@ Interfacing the ESP32 with:
 * Storage
 * Time and date
 * Wifi
-* Bluetooth classic and Bluetooth Low Emission (BLE)
+* Bluetooth classic and Bluetooth Low Energy (BLE)
 
 This repository follows the course path from: https://www.udemy.com/course/esp32-for-arduino-makers/
 
