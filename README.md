@@ -30,6 +30,6 @@ https://ro.mouser.com/ProductDetail/356-EP32S3DVKTC1N8R8
 
 ## Contact
 This repository is maintained by:
- George Calin
+* George Calin
 * george.calin [at] gmail.com
 * Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
