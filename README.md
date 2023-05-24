@@ -26,5 +26,10 @@ https://www.espressif.com/en/products/socs
 ### Mouser.com (online shop)
 https://ro.mouser.com/ProductDetail/356-EP32S3DVKTC1N8R8
 
+![ESP32](2023-05-24_13-39-23.png)
 
-
+## Contact
+This repository is maintained by:
+ George Calin
+* george.calin [at] gmail.com
+* Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
