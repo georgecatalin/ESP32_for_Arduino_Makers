@@ -33,3 +33,6 @@ This repository is maintained by:
 * George Calin
 * george.calin [at] gmail.com
 * Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
+
+
+![ESP32 Layout](ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)
