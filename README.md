@@ -28,11 +28,11 @@ https://ro.mouser.com/ProductDetail/356-EP32S3DVKTC1N8R8
 
 ![ESP32](2023-05-24_13-39-23.png)
 
+![ESP32 Layout](ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)
+
+
 ## Contact
 This repository is maintained by:
 * George Calin
 * george.calin [at] gmail.com
 * Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
-
-
-![ESP32 Layout](ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)
