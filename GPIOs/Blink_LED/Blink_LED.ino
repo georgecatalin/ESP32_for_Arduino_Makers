@@ -22,7 +22,8 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 */
 
-const byte led_gpio = 13;
+const byte led_gpio = 12;
+const byte led_light = 14;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
@@ -34,6 +35,6 @@ void setup() {
 void loop() {
   digitalWrite(led_gpio, HIGH);  // turn the LED on (HIGH is the voltage level)
   delay(1000);                      // wait for a second
-  digitalWrite(led_gpio, LOW);   // turn the LED off by making the voltage LOW
+  digitalWrite(led_gpio, LOW);   // turn the LED off by making the voltage LOW 
   delay(1000);                      // wait for a second
 }
