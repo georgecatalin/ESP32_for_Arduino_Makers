@@ -20,6 +20,9 @@ This repository follows the course path from: https://www.udemy.com/course/esp32
 ### User Guide
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html
 
+### Install Arduino ESP32 libraries
+https://github.com/espressif/arduino-esp32
+
 ### SoC models
 https://www.espressif.com/en/products/socs
 
